@@ -1,0 +1,49 @@
+{
+    "TITLE":{
+        "MAIN_WINDOW": "Passbook",
+        "SEARCH_WINDOW": "Search",
+        "ADD_WINDOW": "Add",
+        "NEW_WINDOW": "New",
+        "EMAILECHECK_WINDOW": "Email Check",
+        "ERROR_WINDOW": "ERROR",
+        "SYSERROR_WINDOW": "System ERROR",
+        "TIP_WINDOW": "Tip",
+        "WARN_WINDOW": "Warning",
+        "CHOSE_SAVE_PASSBOOK_WINDOW": "Please choose a save location",
+        "CHOSE_LOAD_PASSBOOK_WINDOW": "Please choose a file"
+    },
+    "MENU":{
+        "LOAD_PASSBOOK": "Load Passbook",
+        "NEW_PASSBOOK": "New Passbook",
+        "SAVE_PASSBOOK": "Save Passbook",
+        "EXIT": "Exit",
+        "FILE": "File"
+    },
+    "INTERFACE":{
+        "SEARCH_BUTTON_MAIN": "Search data",
+        "ADD_BUTTON": "Add data",
+        "NOT_LOAD_PASSBOOK_TIP": "Please load the passbook first! ",
+        "NO_DATA_PASSBOOK_TIP": "There is no data in the password book, do you want to continue?",
+        "NOT_LOAD_PASSBOOK_LABLE": "Passbook not loaded",
+        "HAS_LOAD_PASSBOOK_LABLE": "Passbook loaded",
+        "EXIT_TIP": "Do you want to exit?",
+        "EMAIL_ERROR": "Email is incorrect, please re-enter!",
+        "VERCODE_ERROR": "The verification code is incorrect, please re-enter!",
+        "EMAIL_CHECK_TIP": "Please confirm that the email is available, and once created, it cannot be modified. Please proceed with caution!",
+        "PASS_HAS_TIP": "Password already exists, do you want to overwrite it?",
+        "PASS_CHANGE_OK_TIP": "Password changed successfully! ",
+        "PASS_CHANGE_ERROR_TIP": "Password modification failed!",
+        "PASS_ADD_OK_TIP": "Password added successfully!",
+        "ACCOUNT_NAME": "Account",
+        "PASSWORD_NAME": "Password",
+        "SEARCH_NONE_TIP": "No relevant data found!",
+        "OK_BUTTON": "OK",
+        "NEW_PASSBOOK_EMAIL_WARNING_LABLE": "Cannot be modified, be cautious!",
+        "INPUT_EMAIL_LABLE": "Please enter your email address",
+        "INPUT_PASSNAME_LABLE": "Please enter a name",
+        "INPUT_ACCOUNT_LABLE": "Please enter your account",
+        "INPUT_PASSWORD_LABLE": "Please enter your password",
+        "SEARCH_BUTTON_TOP": "Search",
+        "VERCODE_HAS_SEND_LABLE": "The verification code has been sent to the email"
+    }
+}

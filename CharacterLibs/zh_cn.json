@@ -1,0 +1,49 @@
+{
+    "TITLE":{
+        "MAIN_WINDOW": "密码簿",
+        "SEARCH_WINDOW": "查找密码",
+        "ADD_WINDOW": "添加密码",
+        "NEW_WINDOW": "新建密码簿",
+        "EMAILECHECK_WINDOW": "邮箱验证",
+        "ERROR_WINDOW": "错误",
+        "SYSERROR_WINDOW": "系统错误",
+        "TIP_WINDOW": "提示",
+        "WARN_WINDOW": "警告",
+        "CHOSE_SAVE_PASSBOOK_WINDOW": "选择保存位置",
+        "CHOSE_LOAD_PASSBOOK_WINDOW": "请选择文件"
+    },
+    "MENU":{
+        "LOAD_PASSBOOK": "加载密码簿",
+        "NEW_PASSBOOK": "新建密码簿",
+        "SAVE_PASSBOOK": "保存密码簿",
+        "EXIT": "退出",
+        "FILE": "文件"
+    },
+    "INTERFACE":{
+        "SEARCH_BUTTON_MAIN": "查找密码本中数据",
+        "ADD_BUTTON": "向密码簿中添加数据",
+        "NOT_LOAD_PASSBOOK_TIP": "请先加载密码簿",
+        "NO_DATA_PASSBOOK_TIP": "密码簿中无数据，是否继续？",
+        "NOT_LOAD_PASSBOOK_LABLE": "未加载密码簿",
+        "HAS_LOAD_PASSBOOK_LABLE": "已加载密码簿",
+        "EXIT_TIP": "是否退出？",
+        "EMAIL_ERROR": "邮箱不正确，请重新输入！",
+        "VERCODE_ERROR": "验证码不正确，请重新输入！",
+        "EMAIL_CHECK_TIP": "请确认邮箱可用，且邮箱一旦创建后无法修改，请谨慎操作！",
+        "PASS_HAS_TIP": "密码已存在，是否覆盖？",
+        "PASS_CHANGE_OK_TIP": "密码修改成功！",
+        "PASS_CHANGE_ERROR_TIP": "密码修改失败！",
+        "PASS_ADD_OK_TIP": "密码添加成功！",
+        "ACCOUNT_NAME": "账号",
+        "PASSWORD_NAME": "密码",
+        "SEARCH_NONE_TIP": "未找到相关数据！",
+        "OK_BUTTON": "确定",
+        "NEW_PASSBOOK_EMAIL_WARNING_LABLE": "创建后无法修改，请谨慎操作！",
+        "INPUT_EMAIL_LABLE": "请输入邮箱地址",
+        "INPUT_PASSNAME_LABLE": "请输入名称",
+        "INPUT_ACCOUNT_LABLE": "请输入账号",
+        "INPUT_PASSWORD_LABLE": "请输入密码",
+        "SEARCH_BUTTON_TOP": "查询",
+        "VERCODE_HAS_SEND_LABLE": "验证码已发送至邮箱"
+    }
+}
